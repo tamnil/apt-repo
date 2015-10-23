@@ -1,6 +1,9 @@
 # apt-repo
  add-apt-repository ppa:webupd8team/java
+ 
+ #image
  gimp gimp-plugin-registry gimp-data-extras darktable rawtherapee pinta shotwell inkscape
+ 
 #codecs ...
 ubuntu-restricted-extras
  gstreamer0.10-plugins-ugly gxine libdvdread4 icedax tagtool easytag id3tool lame
@@ -11,9 +14,13 @@ flashplugin-installer
 # package managers
  synaptic  gdebi
  transmission
+ 
 #compactadores
 unace unrar zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract file-roller
+
+#emuladores
  wine winetricks
+ 
 # desktop tools
  compiz compizconfig-settings-manager compiz-plugins
  unity-tweak-tool gnome-tweak-tool
